@@ -32,9 +32,6 @@ TDSQL是腾讯TEG计费平台部打造的一套基于MySQL的金融级分布式�
 - [腾讯金融级分布式数据库TDSQL的前世今生](http://mp.weixin.qq.com/s/cYQx5JaZJXf9Woi28STT0w)
 - [腾讯云金融级数据库TDSQL分析](http://www.csdn.net/article/2015-11-06/2826138-SDCC)
 - [分布式MySQL数据库TDSQL架构分析](http://www.csdn.net/article/2015-06-02/2824824)
-- [分布式MySQL数据库TDSQL架构分析](http://www.csdn.net/article/2015-06-02/2824824)
-- [分布式MySQL数据库TDSQL架构分析](http://www.csdn.net/article/2015-06-02/2824824)
-- [分布式MySQL数据库TDSQL架构分析](http://www.csdn.net/article/2015-06-02/2824824)
 
 ### 联系我们
 微信扫码关注TDSQL官方公众号    
